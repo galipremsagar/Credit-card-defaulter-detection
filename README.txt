@@ -3,12 +3,7 @@ This is a readme file which containts instructions to run the code.
 Only pre-requite is to have Jupyter notebook with python3 & scki-kit learn installed.
 
 Files of datasets are:
-1. mnist-in-csv/
-	mnist_test.csv
-	mnist_train.csv
-	
-	Source: https://www.kaggle.com/oddrationale/mnist-in-csv or https://pjreddie.com/projects/mnist-in-csv/
-2. UCI_Credit_Card.csv
+1. UCI_Credit_Card.csv
 	
 	Source: https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
 
